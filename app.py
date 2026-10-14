@@ -351,4 +351,3 @@ else:
     3. Chọn số phiên muốn dự báo.
     4. Nhấn **BẮT ĐẦU DỰ BÁO**.
     """)
-```
